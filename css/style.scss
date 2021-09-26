@@ -1,0 +1,19 @@
+&green:#00B894
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    text-transform:capitalize;
+    transition: all .2s linear;
+    font-family: 'Exo 2', sans-serif;
+}
+
+html{
+    font-size: 6.5%;
+    scroll-behavior: smooth;
+}
+
+body{
+    overflow: hidden;
+}
